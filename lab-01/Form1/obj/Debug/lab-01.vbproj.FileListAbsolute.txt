@@ -1,0 +1,12 @@
+C:\Users\Karume\source\repos\lab-01\obj\Debug\lab-01.vbproj.AssemblyReference.cache
+C:\Users\Karume\source\repos\lab-01\obj\Debug\lab_01.WelcomeForm.resources
+C:\Users\Karume\source\repos\lab-01\obj\Debug\lab_01.Resources.resources
+C:\Users\Karume\source\repos\lab-01\obj\Debug\lab-01.vbproj.GenerateResource.cache
+C:\Users\Karume\source\repos\lab-01\obj\Debug\lab-01.vbproj.CoreCompileInputs.cache
+C:\Users\Karume\source\repos\lab-01\bin\Debug\lab-01.exe.config
+C:\Users\Karume\source\repos\lab-01\bin\Debug\lab-01.exe
+C:\Users\Karume\source\repos\lab-01\bin\Debug\lab-01.pdb
+C:\Users\Karume\source\repos\lab-01\bin\Debug\lab-01.xml
+C:\Users\Karume\source\repos\lab-01\obj\Debug\lab-01.exe
+C:\Users\Karume\source\repos\lab-01\obj\Debug\lab-01.xml
+C:\Users\Karume\source\repos\lab-01\obj\Debug\lab-01.pdb
