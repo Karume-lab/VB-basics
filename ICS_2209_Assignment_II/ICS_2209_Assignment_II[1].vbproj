@@ -81,22 +81,22 @@
       <DependentUpon>DemoForm.vb</DependentUpon>
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="GetCommissionForm.Designer.vb">
+    <Compile Include="6\GetCommissionForm.Designer.vb">
       <DependentUpon>GetCommissionForm.vb</DependentUpon>
     </Compile>
-    <Compile Include="GetCommissionForm.vb">
+    <Compile Include="6\GetCommissionForm.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="NextCharacterForm.Designer.vb">
+    <Compile Include="4\NextCharacterForm.Designer.vb">
       <DependentUpon>NextCharacterForm.vb</DependentUpon>
     </Compile>
-    <Compile Include="NextCharacterForm.vb">
+    <Compile Include="4\NextCharacterForm.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="MultiplicationTableForm.Designer.vb">
+    <Compile Include="2\MultiplicationTableForm.Designer.vb">
       <DependentUpon>MultiplicationTableForm.vb</DependentUpon>
     </Compile>
-    <Compile Include="MultiplicationTableForm.vb">
+    <Compile Include="2\MultiplicationTableForm.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="My Project\AssemblyInfo.vb" />
@@ -115,16 +115,16 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
-    <Compile Include="ProgressBarForm.Designer.vb">
+    <Compile Include="5\ProgressBarForm.Designer.vb">
       <DependentUpon>ProgressBarForm.vb</DependentUpon>
     </Compile>
-    <Compile Include="ProgressBarForm.vb">
+    <Compile Include="5\ProgressBarForm.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="SavingsAccountForm.Designer.vb">
+    <Compile Include="3\SavingsAccountForm.Designer.vb">
       <DependentUpon>SavingsAccountForm.vb</DependentUpon>
     </Compile>
-    <Compile Include="SavingsAccountForm.vb">
+    <Compile Include="3\SavingsAccountForm.vb">
       <SubType>Form</SubType>
     </Compile>
   </ItemGroup>
@@ -132,13 +132,13 @@
     <EmbeddedResource Include="1\DemoForm.resx">
       <DependentUpon>DemoForm.vb</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="GetCommissionForm.resx">
+    <EmbeddedResource Include="6\GetCommissionForm.resx">
       <DependentUpon>GetCommissionForm.vb</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="NextCharacterForm.resx">
+    <EmbeddedResource Include="4\NextCharacterForm.resx">
       <DependentUpon>NextCharacterForm.vb</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="MultiplicationTableForm.resx">
+    <EmbeddedResource Include="2\MultiplicationTableForm.resx">
       <DependentUpon>MultiplicationTableForm.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">
@@ -147,10 +147,10 @@
       <CustomToolNamespace>My.Resources</CustomToolNamespace>
       <SubType>Designer</SubType>
     </EmbeddedResource>
-    <EmbeddedResource Include="ProgressBarForm.resx">
+    <EmbeddedResource Include="5\ProgressBarForm.resx">
       <DependentUpon>ProgressBarForm.vb</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="SavingsAccountForm.resx">
+    <EmbeddedResource Include="3\SavingsAccountForm.resx">
       <DependentUpon>SavingsAccountForm.vb</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
@@ -166,12 +166,6 @@
     </None>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="2\" />
-    <Folder Include="3\" />
-    <Folder Include="4\" />
-    <Folder Include="5\" />
-    <Folder Include="6\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
 </Project>
